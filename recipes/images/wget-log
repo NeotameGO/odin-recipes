@@ -1,0 +1,11 @@
+--2022-11-01 19:11:31--  https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4568019.jpg
+Resolving imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)... 65.9.25.15, 65.9.25.89, 65.9.25.30, ...
+Connecting to imagesvc.meredithcorp.io (imagesvc.meredithcorp.io)|65.9.25.15|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 1988683 (1.9M) [image/jpeg]
+Saving to: ‘Stew.jpg’
+
+Stew.jpg                  0%[                              ]       0  --.-KB/s               Stew.jpg                100%[=============================>]   1.90M  --.-KB/s    in 0.1s    
+
+2022-11-01 19:11:32 (15.8 MB/s) - ‘Stew.jpg’ saved [1988683/1988683]
+
